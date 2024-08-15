@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marvo-dev
 - 👀 I’m interested to coding
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning html,css,js 
 - 💞️ I’m not looking to collaborate 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
